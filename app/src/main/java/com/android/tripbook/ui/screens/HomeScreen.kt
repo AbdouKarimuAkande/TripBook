@@ -24,6 +24,7 @@ import com.android.tripbook.model.Place
 import com.android.tripbook.model.Triphome
 import com.android.tripbook.R
 import com.android.tripbook.ui.components.*
+//import com.google.android.gms.location.places.Place
 
 @Composable
 fun HomeScreen(
